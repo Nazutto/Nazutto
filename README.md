@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Nazutto
-- 🌱 I’m currently learning java
+- 🌱 I’m currently learning JavaScript/TypeScript
 - 📫 Discord: Nazuto#9663
 
 <!---
